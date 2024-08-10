@@ -1,1 +1,1 @@
-fefe
+very simple java application
